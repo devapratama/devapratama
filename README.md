@@ -15,7 +15,7 @@ I am a recent graduate with a passion for Data Science, Machine Learning, and Ar
 ## 📜 Thesis
 
 - **Title:** Emotion Recognition From E-Commerce Customer Reviews Using Transformer-Based Deep Learning
-- **Description:** This research explores the application of a Transformer-based deep learning architecture to identify emotions from customer reviews in Indonesian-language e-commerce. Using a dataset of 5,400 customer reviews, the model is designed to classify five categories of emotions: Happy, Sadness, Anger, Love, and Fear. Performance evaluation using confusion matrix and precision, recall, and F1-score metrics provided insights into the model`s effectiveness in distinguishing complex emotions.
+- **Description:** This research explores the application of a Transformer-based deep learning architecture to identify emotions from customer reviews in Indonesian-language e-commerce. Using a dataset of 5,400 customer reviews, the model is designed to classify five categories of emotions: Happy, Sadness, Anger, Love, and Fear.
 - **Technologies Used:** Python, Pandas, Numpy, TensorFlow, Keras, Google Colaboratory, Streamlit.
 - **Link to Thesis:** -
 
