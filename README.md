@@ -33,10 +33,10 @@ Here are a few highlights of the projects I have worked on:
 - **Technologies Used:** Python, TensorFlow, Keras, Google Colaboratory, Flask.
 - **GitHub Repository:** [-]
 
-### 3. **Spam SMS Classification**
+<!--### 3. **Spam SMS Classification**
 - **Description:** .
 - **Technologies Used:** Python, Scikit-learn, Nltk, Google Colaboratory, Streamlit.
-- **GitHub Repository:** [-]
+- **GitHub Repository:** [-] -->
 
 ## 🛠️ Skills
 
