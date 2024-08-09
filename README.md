@@ -26,7 +26,7 @@ Here are a few highlights of the projects I have worked on:
 ### 1. **Travel Customer Prediction**
 - **Description:** This is the final project from the Kampus Merdeka independent study program at Rakamin Academy's Data Science Bootcamp 2023. I led a team of 7 members to successfully complete this project. The focus of this project was on analyzing customer data to provide actionable recommendations for policy makers and marketing teams. Additionally, we developed a predictive model to identify potential customers likely to purchase a newly introduced vacation package.
 - **Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn, Google Colaboratory, Streamlit.
-- **GitHub Repository:** [-]
+- **GitHub Repository:** https://github.com/devapratama/travel-purchase-predictor
 
 ### 2. **Skin Disease Classification**
 - **Description:** This project focuses on Skin Disease Image Classification using transfer learning with DenseNet121. As part of the "SkinSight" team for the Bangkit 2023 Capstone Project, I contributed to the development of the machine learning model. Our goal was to accurately classify various skin diseases, leveraging advanced deep learning techniques to aid in early detection and diagnosis.
