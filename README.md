@@ -31,7 +31,7 @@ Here are a few highlights of the projects I have worked on:
 ### 2. **Skin Disease Classification**
 - **Description:** This project focuses on Skin Disease Image Classification using transfer learning with DenseNet121. As part of the "SkinSight" team for the Bangkit 2023 Capstone Project, I contributed to the development of the machine learning model. Our goal was to accurately classify various skin diseases, leveraging advanced deep learning techniques to aid in early detection and diagnosis.
 - **Technologies Used:** Python, TensorFlow, Keras, Google Colaboratory, Flask.
-- **GitHub Repository:** [-]
+- **GitHub Repository:** https://github.com/devapratama/Skin-Disease-Classification
 
 <!--### 3. **Spam SMS Classification**
 - **Description:** .
