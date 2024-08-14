@@ -10,7 +10,7 @@ I am a recent graduate with a passion for Data Science, Machine Learning, and Ar
 
 - **Bachelor of Informatics Engineering**  
   Dian Nuswantoro University, 2024.
-  Graduated with a GPA of 3.82, completing the program in 3.5 years with honors (Cum Laude).
+  Graduated with a GPA of 3.82, completing the program in 3.5 years.
 
 ## 📜 Thesis
 
