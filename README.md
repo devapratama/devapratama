@@ -2,24 +2,24 @@
 
 # Hi there, I'm Deva👋
 
-## 🚀 About Me
+## About Me
 
-I am a recent graduate with a passion for Data Science, Machine Learning, and Artificial Intelligence engineering. I am certified as a [TensorFlow Developer](https://www.credential.net/a5c3602b-c7d3-4cce-a23c-fc1b0e2b53dc#gs.17fao6). I am eager to apply my academic knowledge and practical skills to real-world problems, aiming to make a meaningful impact through innovative solutions. I'm looking for my first job in the field of Data Science, Machine Learning, or AI engineering.
+I am a recent graduate with a passion for Data Analysis, Data Science, and Machine Learning. I am certified as a [TensorFlow Developer](https://www.credential.net/a5c3602b-c7d3-4cce-a23c-fc1b0e2b53dc#gs.17fao6). I am eager to apply my academic knowledge and practical skills to real-world problems, aiming to make a meaningful impact through innovative solutions. I'm looking for my first job in the field of Data Analysis and Data Science, or Machine Learning.
 
-## 🎓 Education
+## Education
 
 - **Bachelor of Informatics Engineering**  
   Dian Nuswantoro University, 2024.
   Graduated with a GPA of 3.82, completing the program in 3.5 years.
 
-## 📜 Thesis
+## Thesis
 
 - **Title:** Emotion Recognition From E-Commerce Customer Reviews Using Transformer-Based Deep Learning
 - **Description:** This research explores the application of a Transformer-based deep learning architecture to identify emotions from customer reviews in Indonesian-language e-commerce. Using a dataset of 5,400 customer reviews, the model is designed to classify five categories of emotions: Happy, Sadness, Anger, Love, and Fear.
 - **Technologies Used:** Python, Pandas, Numpy, TensorFlow, Keras, Google Colaboratory, Streamlit.
 - **Link to Project & Thesis:** https://github.com/devapratama/text-emotion-recognition
 
-## 🔭 Projects
+## Projects
 
 Here are a few highlights of the projects I have worked on:
 
@@ -38,11 +38,11 @@ Here are a few highlights of the projects I have worked on:
 - **Technologies Used:** Python, Scikit-learn, Nltk, Google Colaboratory, Streamlit.
 - **GitHub Repository:** [-] -->
 
-## 🛠️ Skills
+## Skills
 
 - **Programming Languages:** Python, SQL
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Jupyter, Git, GitHub, Streamlit
 
@@ -53,7 +53,7 @@ Here are a few highlights of the projects I have worked on:
 - Natural Language Processing (NLP)
 - Big Data Technologies-->
 
-## 💬 Let's Connect
+## Let's Connect
 
 - **LinkedIn:** [Ahmad Sabil Deva Pratama](https://linkedin.com/in/deva-pratama/)
 - **Email:** [devapratama4912@gmail.com](mailto:devapratama4912@gmail.com)
