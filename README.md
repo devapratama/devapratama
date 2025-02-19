@@ -1,5 +1,5 @@
 # **👋 Hi, I'm Ahmad Sabil Deva Pratama!**  
-### **📊 Data Analyst | Excel | SQL | Python | Tableau | Machine Learning**  
+### **📊 Data Analyst | Business Analyst | Excel | SQL | Python | Tableau | Machine Learning**  
 
 I am a **Data Analyst** with a strong foundation in **SQL, Python, and Business Intelligence**. My expertise in **data analysis, visualization, and machine learning**, helping organizations transform raw data into actionable insights for better decision-making.  
 
